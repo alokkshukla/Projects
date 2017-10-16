@@ -14,16 +14,13 @@ Follwoing are links to all of my personal projects as a part of various programs
 #### STAT420
 
 Who’s Your Daddy? Is He Rich Like Me? 
-
 A survey of economic mobility across generations in contemporary USA. 
-
 [Project Info Link](https://alokkshukla.github.io/STAT420/)
 
 #### CS410
 
 Real Time Twitter Sentiment Classification on ELK Stack with Semi-Supervised Learning Algorithms
-
-[Report Link](https://drive.google.com/file/d/0B23rCiprGl1cdkgwaWN0NEZfVXc/view?usp=sharing)
+[Report Link](https://drive.google.com/file/d/0B23rCiprGl1cdkgwaWN0NEZfVXc/view?usp=sharing) 
 [Presentation Link](https://drive.google.com/file/d/0B23rCiprGl1cOUR4T212QVdXN1k/view?usp=sharing)
 
 #### CS425
@@ -39,13 +36,11 @@ Took a break.
 #### CS498 : Data Visualization
 
 What IS on the Menu! 
-
 [Project Info Link](https://alokkshukla.github.io/DataVisualisationProject)
 
 #### CS598 : Theory and Practise of Data Cleaning
 
 What IS on the Menu! A Case Study in Data Cleaning and Provenance 
-
 [Project Info Link](https://alokkshukla.github.io/CS598FinalProject)
 
 ### Fall 2017
